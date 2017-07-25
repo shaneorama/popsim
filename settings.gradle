@@ -1,0 +1,6 @@
+rootProject.name = 'popsim'
+include 'server'
+include 'journal'
+include 'simulator'
+include 'webclient'
+
