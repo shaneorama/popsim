@@ -2,19 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/journal.iml" filepath="$PROJECT_DIR$/.idea/modules/journal.iml" group="journal" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/journal/journal_main.iml" filepath="$PROJECT_DIR$/.idea/modules/journal/journal_main.iml" group="journal" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/journal/journal_test.iml" filepath="$PROJECT_DIR$/.idea/modules/journal/journal_test.iml" group="journal" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/popsim.iml" filepath="$PROJECT_DIR$/.idea/modules/popsim.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/popsim_main.iml" filepath="$PROJECT_DIR$/.idea/modules/popsim_main.iml" group="popsim" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/popsim_test.iml" filepath="$PROJECT_DIR$/.idea/modules/popsim_test.iml" group="popsim" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" group="server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/server/server_main.iml" group="server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server/server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/server/server_test.iml" group="server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulator.iml" filepath="$PROJECT_DIR$/.idea/modules/simulator.iml" group="simulator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulator/simulator_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simulator/simulator_main.iml" group="simulator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulator/simulator_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simulator/simulator_test.iml" group="simulator" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/webclient/webclient.iml" filepath="$PROJECT_DIR$/.idea/modules/webclient/webclient.iml" group="webclient" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client.iml" filepath="$PROJECT_DIR$/.idea/modules/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/client-build.iml" filepath="$PROJECT_DIR$/.idea/modules/client-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paper.iml" filepath="$PROJECT_DIR$/.idea/modules/paper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/paper-build.iml" filepath="$PROJECT_DIR$/.idea/modules/paper-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/popsim.iml" filepath="$PROJECT_DIR$/.idea/popsim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/popsim-build.iml" filepath="$PROJECT_DIR$/.idea/modules/popsim-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/popsim-sources.iml" filepath="$PROJECT_DIR$/.idea/modules/popsim-sources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server.iml" filepath="$PROJECT_DIR$/.idea/modules/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/server-build.iml" filepath="$PROJECT_DIR$/.idea/modules/server-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJS.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJS-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJS-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJVM.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJVM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedJVM-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedJVM-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulator.iml" filepath="$PROJECT_DIR$/.idea/modules/simulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/simulator-build.iml" filepath="$PROJECT_DIR$/.idea/modules/simulator-build.iml" />
     </modules>
   </component>
 </project>

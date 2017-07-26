@@ -1,0 +1,20 @@
+Manifest-Version: 1.0
+Class-Path: logback-core-1.1.11.jar jul-to-slf4j-1.7.25.jar spring-bea
+ ns-4.3.10.RELEASE.jar jackson-annotations-2.8.0.jar log4j-over-slf4j-
+ 1.7.25.jar logback-classic-1.1.11.jar tomcat-embed-websocket-8.5.16.j
+ ar spring-core-4.3.10.RELEASE.jar spring-webmvc-4.3.10.RELEASE.jar va
+ lidation-api-1.1.0.Final.jar spring-boot-starter-logging-1.5.6.RELEAS
+ E.jar jboss-logging-3.3.0.Final.jar scala-library-2.12.2.jar spring-w
+ ebsocket-4.3.10.RELEASE.jar slf4j-api-1.7.25.jar spring-web-4.3.10.RE
+ LEASE.jar spring-aop-4.3.10.RELEASE.jar spring-expression-4.3.10.RELE
+ ASE.jar spring-boot-starter-websocket-1.5.6.RELEASE.jar tomcat-embed-
+ core-8.5.16.jar scalajs-library_2.12-0.6.16.jar spring-boot-autoconfi
+ gure-1.5.6.RELEASE.jar spring-boot-starter-web-1.5.6.RELEASE.jar spri
+ ng-context-4.3.10.RELEASE.jar jackson-core-2.8.9.jar spring-messaging
+ -4.3.10.RELEASE.jar snakeyaml-1.17.jar spring-boot-1.5.6.RELEASE.jar 
+ classmate-1.3.1.jar spring-boot-starter-1.5.6.RELEASE.jar jcl-over-sl
+ f4j-1.7.25.jar spring-boot-starter-tomcat-1.5.6.RELEASE.jar jackson-d
+ atabind-2.8.9.jar tomcat-embed-el-8.5.16.jar hibernate-validator-5.3.
+ 5.Final.jar
+Main-Class: server.Application
+

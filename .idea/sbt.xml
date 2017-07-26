@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="linkedExternalProjectsSettings">
+      <SbtProjectSettings>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/client" />
+            <option value="$PROJECT_DIR$/client/project" />
+            <option value="$PROJECT_DIR$/paper" />
+            <option value="$PROJECT_DIR$/paper/project" />
+            <option value="$PROJECT_DIR$/project" />
+            <option value="$PROJECT_DIR$/server" />
+            <option value="$PROJECT_DIR$/server/project" />
+            <option value="$PROJECT_DIR$/shared" />
+            <option value="$PROJECT_DIR$/shared/.js" />
+            <option value="$PROJECT_DIR$/shared/.js/project" />
+            <option value="$PROJECT_DIR$/shared/.jvm" />
+            <option value="$PROJECT_DIR$/shared/.jvm/project" />
+            <option value="$PROJECT_DIR$/simulator" />
+            <option value="$PROJECT_DIR$/simulator/project" />
+          </set>
+        </option>
+        <option name="sbtVersion" value="0.13.16" />
+        <option name="useAutoImport" value="true" />
+        <option name="useOurOwnAutoImport" value="true" />
+      </SbtProjectSettings>
+    </option>
+  </component>
+</project>
